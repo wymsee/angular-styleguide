@@ -1939,7 +1939,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
 
     *Why?*: UpperCamelCase is conventional for identifying object that can be instantiated using a constructor.
     
-  - For things with a verb in the name put the name first.  ie `EditEpisodeController`
+  - For things with a verb in the name put the verb first.  ie `EditEpisodeController`
   
     *Why?*: Consistency!
     
