@@ -1943,7 +1943,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
   
     *Why?*: Consistency!
     
-    *Why?*: Also names read better with the verb first.
+    *Why?*: Names read better with the verb first.
 
     ```javascript
     /**
