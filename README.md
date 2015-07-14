@@ -1938,6 +1938,12 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
     *Why?*: Provides a consistent way to quickly identify and reference controllers.
 
     *Why?*: UpperCamelCase is conventional for identifying object that can be instantiated using a constructor.
+    
+  - For things with a verb in the name put the name first.  ie `EditEpisodeController`
+  
+    *Why?*: Consistency!
+    
+    *Why?*: Also names read better with the verb first.
 
     ```javascript
     /**
